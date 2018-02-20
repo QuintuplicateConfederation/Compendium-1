@@ -99,6 +99,9 @@ How old is Life?
 Why was Life created?
   Life was made to be a peaceful System away from all the action in the others. A System that was even often used for people to seek spiritual enlightenment, as it would be so serene.
 
+Is the name "Life" the same in all languages of Life and LFE?
+  Yes.
+
 How was the universe in Life created?
   Life only has one universe so the Big Bang was just spawned at runtime.
   
@@ -216,6 +219,9 @@ Is it possible for humans to manipulate Aurora in Life?
   
 After Life is unlinked, will manipulating Aurora still be possible?
   Yes, it will be possible still, you will be manipulating "fake" Aurora though.
+
+Since manipulating Aurora in Life is so hard and is supposed to be impossible, does any form of magic practiced in Life actually have any effect at all?
+  We don't exactly know, but we doubt it.
 
   
 About LFE
@@ -389,6 +395,9 @@ Would it be hard to start conquering new lands?
 
 Does LFE use the same physics as our world?
   The central universe does, but it changes by universe.
+
+If LFE does not use atoms, then is it nevertheless possible to fabricate atoms from Aurora?
+  All of that is up to the System's owner.
 
 Do the physic laws in the most common part of the LFE follow the same patterns as they do here?
   Although the "laws" are entirely different, you'll find that (at least in the central universe of LFE) they act rather the same as here.
@@ -1971,6 +1980,9 @@ Would more Memories put stress on the System, requiring more reboots?
 
 What happens to everyone in a reboot?
   Their soul stays, but new bodies.
+
+Can you be banned from a System?
+  Yes, you can be banned. Up to the owner.
 
 Would users of non-blocking systems like LFE remember old iterations of the System, i.e. after a reboot?
   Depends on if the System treats souls stuck in a reboot as soulshatter or alive.
