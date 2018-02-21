@@ -1600,6 +1600,9 @@ Do you think you'll go advertising the project anywhere else again any time soon
 
 Any updates on whether or not you'll be able to unlink Life without suicide?
   Well technically I can, it's just dangerous.  
+
+If my school is getting shot up tomorrow can my friend be manually added?
+  Well, it'll need some sort of base.
   
 Tsuki, the Representative
 -------------------------
