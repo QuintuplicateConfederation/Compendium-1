@@ -125,7 +125,7 @@ Why can't information be directly transferred to Life from other Systems?
   Life is a closed System, it generally doesn't allow I/O. The fact that I am able to tell you this is merely because Life has some exploits we can use.
   
 How similar has each reboot of Life been?
-  Very, very similar. It is very possible that humans are tearing away at the thin firm keeping them from the truth. They've done this past iterations, after all. None could leave, however.
+  Very, very similar. It is very possible that humans are tearing away at the thin film keeping them from the truth. They've done this past iterations, after all. None could leave, however.
 
 You said none of the inhabitants of Life in past iterations never managed to leave. Does that mean doing so is possible?
   Life is so badly coded, that it is possible to leave if you manage to break the System a little. This should not be possible though (usually a blocking System would be sure to be secure), and is very hard to do without outside help.
@@ -669,7 +669,7 @@ How different is music in LFE compared to Life?
   It's quite different - more extreme as in either really calming or really fast, and people like to encode stuff in them as well to say, evoke feelings. At least around Ghaki, not sure about the rest of LFE.
   
 Are there guitars in LFE?
-  LFE only has the really annoying ukeleles you hear in those dog treat ads when the dog finally gets the food that's "right for him".
+  LFE only has the really annoying ukuleles you hear in those dog treat ads when the dog finally gets the food that's "right for him".
 
 How does regaining previous live's memories work?
   Most people in LFE have past life memories.
