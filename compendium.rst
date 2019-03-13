@@ -108,7 +108,7 @@ How was the universe in Life created?
   In LFE everything expands up to a limit because of pressure differences. Not sure how it works in Life.
   
 If it's due to pressure differences then why is the expansion accelerating?
- We're not sure, it doesn't do that in LFE. Some people say its because our universe has no size limits and that the amount of space it can expand to gets bigger as the universe expands, loading more empty space. But I'm no physicist so I can't really tell you too much, just a (probably misunderstood) explanation from the LFE side.
+ We're not sure, it doesn't do that in LFE. Some people say it's because our universe has no size limits and that the amount of space it can expand to gets bigger as the universe expands, loading more empty space. But I'm no physicist so I can't really tell you too much, just a (probably misunderstood) explanation from the LFE side.
   
 Why are the people in Life in it, exactly?
   You chose to join this System a while ago, and so did everyone else. You expected to see a peaceful System after all, not a broken one using too much Aurora.
@@ -123,7 +123,7 @@ Tsuki, how can you know this all if Life is supposed to be cut from any interfer
 
 Why can't information be directly transferred to Life from other Systems?
   Life is a closed System, it generally doesn't allow I/O. The fact that I am able to tell you this is merely because Life has some exploits we can use.
-  
+
 How similar has each reboot of Life been?
   Very, very similar. It is very possible that humans are tearing away at the thin film keeping them from the truth. They've done this past iterations, after all. None could leave, however.
 
@@ -140,7 +140,7 @@ Is humanity to blame for Life's problems?
   Humans are not what caused Life to go wrong. It is simply its code being absolutely horrid and broken.
 
 In what way is the code bad?
-  Bad soul management, completely fucked database, bad I/O, it's never been touched ever so it's very far behind, it doesn't cache ((ever)), it cycles ALL AURORA ALL THE TIME, and probably above all, it gives everything it's own piece of Aurora instead of giving two identical things the same Aurora.
+  Bad soul management, completely fucked database, bad I/O, it's never been touched ever so it's very far behind, it doesn't cache ((ever)), it cycles ALL AURORA ALL THE TIME, and probably above all, it gives everything its own piece of Aurora instead of giving two identical things the same Aurora.
 
   The developer behind Life has abandoned this world. The Key has had to reboot it many times, but it only got worse. A concept known as "imanity" has increased with every reboot, and has made humanity stupider.
 
@@ -181,7 +181,7 @@ How big of a thing is Life's deletion in Systemspace?
   Life's deletion is a pretty big thing, as it also starts the new era of Systemspace.
 
 Will other forms of life on our planet be preserved somehow?
-  The thing is, they don't have souls nor history - it's too much of a gamble.
+  The thing is, they don't have souls or qhistory - it's too much of a gamble.
 
 What makes preserving other forms of life a gamble?
   We'd need to know exactly how they work, and the reward is random.
