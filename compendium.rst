@@ -691,7 +691,8 @@ Do people care about their relatives even after they die? Would it be common too
 
 What is the naming convention in LFE?
   The most common are First/Last, and First/Middle/Secondary/Last.
-  [NOTE: But see [the wiki section.](https://wiki.systemspace.link/wiki/Synapsian#Naming_convention)
+  
+  [NOTE: But see (https://wiki.systemspace.link/wiki/Synapsian#Naming_convention)
   
 Are transgenders allowed in LFE?
   Nobody really cares about sexuality other than to have offspring.
