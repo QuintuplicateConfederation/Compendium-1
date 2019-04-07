@@ -679,7 +679,7 @@ How does regaining previous live's memories work?
   A soul is fully stably adapted to its body when it remembering its past lives, almost always 12 years after birth. This is often celebrated with a gigantic party for the child on their "Recollection Day". This also marks the start of soul-based and mental adulthood.
   
 Do you think it's possible for someone to regain their memories before the age of 12 in LFE?
-  It's possible but mmm.
+  It's possible but mmm. 
   
 Am I right in assuming the age of consent in LFE would be 12?
   In most places, yes.
@@ -692,7 +692,7 @@ Do people care about their relatives even after they die? Would it be common too
 What is the naming convention in LFE?
   The most common are First/Last, and First/Middle/Secondary/Last.
   
-  [NOTE: But see (https://wiki.systemspace.link/wiki/Synapsian#Naming_convention)
+  **Note: But see [Synapsian#Naming convention](https://wiki.systemspace.link/wiki/Synapsian#Naming_convention) on the wiki.**
   
 Are transgenders allowed in LFE?
   Nobody really cares about sexuality other than to have offspring.
