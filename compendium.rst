@@ -1626,6 +1626,8 @@ Do you know who that person is?
 
 If a news organization asked to interview you, would you do it?
   I'd rather stay anonymous.
+  
+  **Note: In the summer of 2018 a Canadian radio station asked to interview Tsuki for a program about Systemspace but he refused to let it broadcast his voice. It went ahead anyway without Tsuki saying anything.**
 
 Are there any other people like Tsuki on Earth, i.e. any others that can communicate with other Systems?
   It's very well possible that there's someone else, but I am the only official one.
